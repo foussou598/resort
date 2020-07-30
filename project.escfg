@@ -1,0 +1,26 @@
+[
+    [
+        "ChipType",
+        "E902T"
+    ],
+    [
+        "cleanFlag",
+        true
+    ],
+    [
+        "ProjectType",
+        "HR32Bit"
+    ],
+    [
+        "ToolChain",
+        ""
+    ],
+    [
+        "TargetPath",
+        "Debug"
+    ],
+    [
+        "Name",
+        "resort"
+    ]
+]
